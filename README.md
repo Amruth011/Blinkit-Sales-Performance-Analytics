@@ -64,3 +64,12 @@ The project followed a structured data analysis pipeline:
 4.  **Power BI Dashboard:** View the `blinkitPOWERBI2.jpg` image for a snapshot of the dashboard. For the interactive version, you would typically need the `.pbix` file (if you choose to upload it).
 
 ---
+## Snapshots
+![WhatsApp Image 2025-07-14 at 21 58 51_2b8e5d45](https://github.com/user-attachments/assets/3801580e-6567-48e1-bd22-144538129f53)
+![WhatsApp Image 2025-07-14 at 21 42 46_5d1fb1a5](https://github.com/user-attachments/assets/aa9e4298-55ef-45de-a92f-07482a438cf2)
+![WhatsApp Image 2025-07-14 at 21 58 16_1a285e4b](https://github.com/user-attachments/assets/2dfb70f8-95fe-48d3-a452-49f477a929e1)
+![WhatsApp Image 2025-07-14 at 22 01 09_f02fbf56](https://github.com/user-attachments/assets/762c9ae3-cdde-46d0-a030-441b2c5aa9e8)
+
+
+
+
