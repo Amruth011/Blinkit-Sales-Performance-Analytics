@@ -33,7 +33,7 @@ The project followed a structured data analysis pipeline:
     * The dashboard allows stakeholders to filter and drill down into data, facilitating self-service analytics and aiding strategic planning.
 
 ## Key Findings & Insights
-* [**Example Insight 1:** You can add specific insights you found, e.g., "Identified that 'Tier 1' Outlet Locations consistently generated the highest sales." (Based on your Power BI dashboard screenshot, 'Tier 1' is a prominent category)]
+* [**Example Insight 1:** You can add specific insights you found, e.g., "Identified that 'Tier 1' Outlet Locations consistently generated the highest sales." (Based on your Power BI dashboard, 'Tier 1' is a prominent category)]
 * [**Example Insight 2:** "Certain item types or fat content categories show significantly higher sales volumes, indicating areas for focused marketing or inventory management." (Based on your SQL queries and Python analysis)]
 * [**Example Insight 3:** "Visualized month-over-month sales trends to identify peak seasons and potential dips." (If your data had a time component or you derived this)]
 
@@ -69,7 +69,3 @@ The project followed a structured data analysis pipeline:
 ![WhatsApp Image 2025-07-14 at 21 42 46_5d1fb1a5](https://github.com/user-attachments/assets/aa9e4298-55ef-45de-a92f-07482a438cf2)
 ![WhatsApp Image 2025-07-14 at 21 58 16_1a285e4b](https://github.com/user-attachments/assets/2dfb70f8-95fe-48d3-a452-49f477a929e1)
 ![WhatsApp Image 2025-07-14 at 22 01 09_f02fbf56](https://github.com/user-attachments/assets/762c9ae3-cdde-46d0-a030-441b2c5aa9e8)
-
-
-
-
