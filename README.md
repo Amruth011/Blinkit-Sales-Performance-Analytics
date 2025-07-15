@@ -43,6 +43,7 @@ The project followed a structured data analysis pipeline:
 * **Business Intelligence & Visualization:** Power BI
 * **Development Environment:** Jupyter Notebook, VS Code (for code editing and management)
 * **Version Control:** Git, GitHub
+* **Softwares used:** Jupyter(Python), SSMS(SQL), Excel, Power BI
 
 ## Files in this Repository
 * `Blinkit analysis.ipynb`: Jupyter Notebook containing the Python code for data loading, EDA, and visualization.
@@ -65,7 +66,14 @@ The project followed a structured data analysis pipeline:
 
 ---
 ## Snapshots
+### DASHBOARD - POWER BI
 ![WhatsApp Image 2025-07-14 at 21 58 51_2b8e5d45](https://github.com/user-attachments/assets/3801580e-6567-48e1-bd22-144538129f53)
+
+### SQL - SSMS(SQL SERVER MANAGEMENT STUDIO)
 ![WhatsApp Image 2025-07-14 at 21 42 46_5d1fb1a5](https://github.com/user-attachments/assets/aa9e4298-55ef-45de-a92f-07482a438cf2)
+
+### EXCEL
 ![WhatsApp Image 2025-07-14 at 21 58 16_1a285e4b](https://github.com/user-attachments/assets/2dfb70f8-95fe-48d3-a452-49f477a929e1)
+
+### PYTHON - JUPYTER
 ![WhatsApp Image 2025-07-14 at 22 01 09_f02fbf56](https://github.com/user-attachments/assets/762c9ae3-cdde-46d0-a030-441b2c5aa9e8)
