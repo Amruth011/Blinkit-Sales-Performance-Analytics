@@ -43,7 +43,7 @@ The project followed a structured data analysis pipeline:
 * **Business Intelligence & Visualization:** Power BI
 * **Development Environment:** Jupyter Notebook, VS Code (for code editing and management)
 * **Version Control:** Git, GitHub
-* **Softwares used:** Jupyter(Python), SSMS(SQL), Excel, Power BI
+* **Softwares used:** Jupyter(Python), SSMS(SQL), Excel, &  Power BI
 
 ## Files in this Repository
 * `Blinkit analysis.ipynb`: Jupyter Notebook containing the Python code for data loading, EDA, and visualization.
@@ -52,7 +52,7 @@ The project followed a structured data analysis pipeline:
 * `blinkitPOWERBI2.jpg`: Screenshot of the interactive Power BI dashboard.
 * `blinkitPYTHON.jpg`: Screenshot of Python code/visualizations from Jupyter.
 * `blinkitSQL.jpg`: Screenshot of SQL queries.
-* `blinkitEXCEL.jpg`: Screenshot of Excel data (if used for initial review/prep).
+* `blinkitEXCEL.jpg`: Screenshot of Excel data.
 
 ## How to View / Run This Project
 1.  **Clone the Repository:**
