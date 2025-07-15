@@ -61,7 +61,7 @@ The project followed a structured data analysis pipeline:
     ```
 2.  **SQL Queries:** Review the `Blinkit Data Analysis Project Report.docx` for the SQL commands used.
 3.  **Python Analysis:** Open `Blinkit analysis.ipynb` in Jupyter Notebook or Google Colab to run the Python code and explore the EDA steps.
-4.  **Power BI Dashboard:** View the `blinkitPOWERBI2.jpg` image for a snapshot of the dashboard. For the interactive version, you would typically need the `.pbix` file (if you choose to upload it).
+4.  **Power BI Dashboard:** View the `blinkitPOWERBI2.jpg` image for a snapshot of the dashboard. For the interactive version use : https://github.com/Amruth011/Blinkit-Sales-Performance-Analytics/blob/main/Blinkit%20Analysis%20Dashboard.pbix / Blinkit Analysis Dashboard.pbix file.
 
 ---
 ## Snapshots
