@@ -11,7 +11,7 @@ The primary goal of this project was to understand the underlying patterns and d
 * Provide a visual and interactive platform for stakeholders to explore data and make informed decisions.
 
 ## Data Source
-The analysis is based on the `BlinkIT Grocery Data.csv` dataset, which contains detailed information about various items sold, their properties, sales figures, and characteristics of the outlets.
+The analysis is based on the `BlinkIT Grocery Data.csv`/ https://github.com/Amruth011/Blinkit-Sales-Performance-Analytics/blob/main/BlinkIT%20Grocery%20Data.csv dataset, which contains detailed information about various items sold, their properties, sales figures, and characteristics of the outlets.
 
 ## Methodology & Analysis Steps
 
@@ -61,7 +61,7 @@ The project followed a structured data analysis pipeline:
     ```
 2.  **SQL Queries:** Review the `Blinkit Data Analysis Project Report.docx` for the SQL commands used.
 3.  **Python Analysis:** Open `Blinkit analysis.ipynb` in Jupyter Notebook or Google Colab to run the Python code and explore the EDA steps.
-4.  **Power BI Dashboard:** View the `blinkitPOWERBI2.jpg` image for a snapshot of the dashboard. For the interactive version use : https://github.com/Amruth011/Blinkit-Sales-Performance-Analytics/blob/main/Blinkit%20Analysis%20Dashboard.pbix / Blinkit Analysis Dashboard.pbix file.
+4.  **Power BI Dashboard:** View the `blinkitPOWERBI2.jpg` image for a snapshot of the dashboard. For the interactive version use : https://github.com/Amruth011/Blinkit-Sales-Performance-Analytics/blob/main/Blinkit%20Analysis%20Dashboard.pbix / ` Blinkit Analysis Dashboard.pbix` file.
 
 ---
 ## Snapshots
